@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wise-old-owl
+- 👀 I’m interested in trying out some SQL, Python, Pandas and maths stuff
+- 💞️ I’m looking to help you to learn SQL, Python, Pandas and maths
